@@ -1,0 +1,283 @@
+2014-12-23 00:06:07 Serial port connected.
+2014-12-23 00:59:20 Serial port connected.
+2014-12-23 00:59:32 Serial port connected.
+2014-12-23 00:59:37 Serial port connected.
+2014-12-23 01:01:30 Serial port not supported
+2014-12-23 01:01:44 Serial port connected.
+2014-12-23 01:01:45 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:46 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:47 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:48 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:49 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:50 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:51 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:01:51 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:51 Unknown database 'pesofare'
+2014-12-23 01:01:52 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:52 Unknown database 'pesofare'
+2014-12-23 01:01:52 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:52 Unknown database 'pesofare'
+2014-12-23 01:01:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:55 Unknown database 'pesofare'
+2014-12-23 01:01:57 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:57 Unknown database 'pesofare'
+2014-12-23 01:01:58 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:58 Unknown database 'pesofare'
+2014-12-23 01:01:58 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:01:58 Unknown database 'pesofare'
+2014-12-23 01:02:11 Serial port connected.
+2014-12-23 01:02:12 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:13 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:14 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:15 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:16 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:17 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:18 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:19 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:20 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:21 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:22 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:23 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:24 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:25 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:26 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:27 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:02:28 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:28 Unknown database 'pesofare'
+2014-12-23 01:02:28 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:28 Unknown database 'pesofare'
+2014-12-23 01:02:28 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:28 Unknown database 'pesofare'
+2014-12-23 01:02:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:29 Unknown database 'pesofare'
+2014-12-23 01:02:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:29 Unknown database 'pesofare'
+2014-12-23 01:02:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:29 Unknown database 'pesofare'
+2014-12-23 01:02:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:29 Unknown database 'pesofare'
+2014-12-23 01:02:30 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:30 Unknown database 'pesofare'
+2014-12-23 01:02:30 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:02:30 Unknown database 'pesofare'
+2014-12-23 01:07:17 Serial port connected.
+2014-12-23 01:07:18 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:19 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:20 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:21 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:22 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:23 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:24 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:25 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:26 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:27 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:07:28 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:28 Unknown database 'pesofare'
+2014-12-23 01:07:28 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:28 Unknown database 'pesofare'
+2014-12-23 01:07:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:29 Unknown database 'pesofare'
+2014-12-23 01:07:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:29 Unknown database 'pesofare'
+2014-12-23 01:07:29 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:29 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:07:32 Unknown database 'pesofare'
+2014-12-23 01:08:27 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:36 Serial port connected.
+2014-12-23 01:08:37 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:08:38 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:08:39 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:08:40 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:08:40 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:41 Unknown database 'pesofare'
+2014-12-23 01:08:41 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:41 Unknown database 'pesofare'
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 Unknown database 'pesofare'
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 Unknown database 'pesofare'
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 Unknown database 'pesofare'
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 Unknown database 'pesofare'
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 Unknown database 'pesofare'
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:42 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:43 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:44 Unknown database 'pesofare'
+2014-12-23 01:08:45 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:45 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:45 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:45 Unknown database 'pesofare'
+2014-12-23 01:08:45 Unknown database 'pesofare'
+2014-12-23 01:08:46 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:46 Unknown database 'pesofare'
+2014-12-23 01:08:46 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:46 Unknown database 'pesofare'
+2014-12-23 01:08:46 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:46 Unknown database 'pesofare'
+2014-12-23 01:08:47 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:08:47 Unknown database 'pesofare'
+2014-12-23 01:09:49 Serial port connected.
+2014-12-23 01:09:50 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:09:51 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:09:52 SerialPortEvent.OUTPUT_BUFFER_EMPTY occurred
+2014-12-23 01:09:53 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:53 Unknown database 'pesofare'
+2014-12-23 01:09:53 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:53 Unknown database 'pesofare'
+2014-12-23 01:09:54 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:54 Unknown database 'pesofare'
+2014-12-23 01:09:54 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:54 Unknown database 'pesofare'
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 Unknown database 'pesofare'
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 Unknown database 'pesofare'
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:55 Unknown database 'pesofare'
+2014-12-23 01:09:55 Unknown database 'pesofare'
+2014-12-23 01:09:57 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:57 Unknown database 'pesofare'
+2014-12-23 01:09:57 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:57 Unknown database 'pesofare'
+2014-12-23 01:09:58 SerialPortEvent.DATA_AVAILABLE occurred
+2014-12-23 01:09:58 Unknown database 'pesofare'
